@@ -1,3 +1,4 @@
+# after changing it type in cmd >git add . < then >git commit -m "(what changed)" then git push -u origin master
 #to run this, in cmd prompt type cd [file location]. then streamlit run [file name].py
 
 import requests
