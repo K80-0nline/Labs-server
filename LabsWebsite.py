@@ -58,6 +58,10 @@ with st.container():
 
             * fill out the questions the BOT sends to u in DMS
 
+            * and your done!
+
+            * forms may take a couple days to be gone over so please be patient
+
             """
         )
         
